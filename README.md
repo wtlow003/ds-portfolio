@@ -4,6 +4,10 @@ Personal portfolio on related Data Science projects initiated by myself for acad
 
 ## Contents 📚
 
+* **Web Application**
+   * [Staycation Portal](https://github.com/wtlow003/ict239): A full stack web application based on the Flask framework. The staycation portal involves user session management, to provide two different experiences for both the consumer and business adminstrator. Developed using a frontend stack of HTML, Bootstrap CSS, and JavaScript, alongside a backend stack of Flask and NoSql Database (MongoDB).
+        * Tools: *Docker*, *Poetry*, *HTML*, *Bootstrap CSS*, *JavaScript*, *Flask*
+
 * **Recommender System**
     * [Leveraging Unsupervised Representation Learning with Reviews to Improve Top-N Recommendation in E-commerce](https://github.com/wtlow003/recommendation-systems): Developed a *product recommender* that incorporates product reviews in the form of document embeddings as an independent/complementary source of information. Experiments showed that by representing user as an aggregate of his/her past purchased item embeddings, we are able to achieved better accuracy and novelty as compared to traditional algorithms.
         * Tools: *Docker*, *DVC*, *Streamlit*, *Surprise*, *Gensim*, *TextBlob*, *scikit-learn*
