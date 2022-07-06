@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Portfolio
 
 Personal portfolio on related Data Science projects initiated by myself for academic or personal interests.
 
