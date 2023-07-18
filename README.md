@@ -14,12 +14,13 @@ Personal portfolio on related Data Science projects initiated by myself for acad
 
 ### Machine Learning
 
-#### **Recommender System**
+* **Recommender System**
 
     * [Leveraging Unsupervised Representation Learning with Reviews to Improve Top-N Recommendation in E-commerce](https://github.com/wtlow003/recommendation-systems): Developed a *product recommender* that incorporates product reviews in the form of document embeddings as an independent/complementary source of information. Experiments showed that by representing user as an aggregate of his/her past purchased item embeddings, we are able to achieved better accuracy and novelty as compared to traditional algorithms.
         * Tools: `Docker`, `DVC`, `Streamlit`, `Surprise`, `Gensim`, `TextBlob`, `scikit-learn`
 
 ### **Workshops**
+
     * [SQL Peer Mentoring Programme Workshop](https://github.com/wtlow003/sql-peer-tutor-workshop): Developed related course materials and conducted two runs of SQL Peer Mentoring Programme Workshop to educate beginner and intermediate level of SQL at the Singapore University of Social Sciences.
 
 ## Contact Me ☕️
