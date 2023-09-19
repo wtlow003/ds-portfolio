@@ -9,10 +9,15 @@ Personal portfolio on related Data Science projects initiated by myself for acad
    * [Staycation Portal](https://github.com/wtlow003/ict239): A full stack web application based on the Flask framework. The staycation portal involves user session management, to provide two different experiences for both the consumer and business adminstrator. Developed using a frontend stack of HTML, Bootstrap CSS, and JavaScript, alongside a backend stack of Flask and NoSql Database (MongoDB).
         * Tools: `Docker`, `Poetry`, `HTML`, `Bootstrap CSS`, `JavaScript`, `Flask`
 
-   * [CSIT Software Engineering Mini Challenge 2023](https://github.com/wtlow003/csit-se-mini-challenge-2023): A backend service (REST API) server developed on FastAPI. The mini challenge involves building a containerised server for a NoSQL database (MonogDB).
+   * [CSIT Software Engineering Mini Challenge 2023](https://github.com/wtlow003/csit-se-mini-challenge-2023): A backend service (REST API) server developed on FastAPI. The mini challenge involves building a containerised server for a NoSQL database (MongoDB).
         * Tools: `Docker`, `Poetry`, `FastAPI`
 
 ### Machine Learning
+
+* **Natural Language Processing**
+
+    * [InvestmentAdvisorGPT](https://github.com/wtlow003/investment-advisor-gpt): LLM-based chatbot agent coupled with custom tools for retrieval of information in knowledge base and web search to provide latest relevant information, with regards to investment opportunities.
+    * Tools: `LangChain`, `Chainlit`, `FastAPI`, `Docker`
 
 * **Recommender System**
 
@@ -21,7 +26,7 @@ Personal portfolio on related Data Science projects initiated by myself for acad
 
 ### **Workshops**
 
-    * [SQL Peer Mentoring Programme Workshop](https://github.com/wtlow003/sql-peer-tutor-workshop): Developed related course materials and conducted two runs of SQL Peer Mentoring Programme Workshop to educate beginner and intermediate level of SQL at the Singapore University of Social Sciences.
+  * [SQL Peer Mentoring Programme Workshop](https://github.com/wtlow003/sql-peer-tutor-workshop): Developed related course materials and conducted two runs of SQL Peer Mentoring Programme Workshop to educate beginner and intermediate level of SQL at the Singapore University of Social Sciences.
 
 ## Contact Me ☕️
 
